@@ -1,5 +1,11 @@
 # Brain-and-Cognition-Papers-with-Code
 
+<div>
+  <div align="right">
+    👆 Click <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/UFund-Me/Qbot.svg?style=social&label=Star"> in the upper right corner to tell me , you want this project to continue to accelerate development iterations ❤️ & ☕️
+  </div>
+</div>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Static Badge](https://img.shields.io/badge/papers_with_code-orange)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
