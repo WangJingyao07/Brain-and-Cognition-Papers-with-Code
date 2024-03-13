@@ -21,6 +21,8 @@ In addition, I will separately list papers from important conferences starting f
 
 **All the papers are provided in './Papers' folder**
 
+
+## Brain-inspired
 [1] Ben-Iwhiwhu, E., Dick, J., Ketz, N. A., Pilly, P. K., & Soltoggio, A. (2022). **Context meta-reinforcement learning via neuromodulation**. Neural Networks, 152, 70-79.
 
 [2] Robertazzi, F., Vissani, M., Schillaci, G., & Falotico, E. (2022). **Brain-inspired meta-reinforcement learning cognitive control in conflictual inhibition decision-making task for artificial agents**. Neural Networks, 154, 283-302.
