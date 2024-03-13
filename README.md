@@ -22,7 +22,7 @@
 - **All the papers are provided in './Papers' folder**
 
 
-## Brain-inspired
+## 1 Brain-inspired Paper
 
 
 [1] Ben-Iwhiwhu, E., Dick, J., Ketz, N. A., Pilly, P. K., & Soltoggio, A. (2022). **Context meta-reinforcement learning via neuromodulation**. Neural Networks, 152, 70-79.
