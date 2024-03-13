@@ -13,16 +13,18 @@
 
 ✨ **Papers, Code, Datasets for Neuroscience and Cognition Science**
 
-This repository contains a reading list of papers with code on **Neuroscience and Cognition Science**. Note that most of the papers are related to **machine learning, transfer learning, or meta-learning**.
+- This repository contains a reading list of papers with code on **Neuroscience and Cognition Science**. Note that most of the papers are related to **machine learning, transfer learning, or meta-learning**.
 
-In addition, I will separately list papers from important conferences starting from 2023, e.g., NIPS, ICML, ICLR, CVPR etc. This repository is still being continuously improved. If you have found any relevant papers that need to be included in this repository, please feel free to submit a pull request (PR) or open an issue.
+- In addition, I will separately list papers from important conferences starting from 2023, e.g., NIPS, ICML, ICLR, CVPR etc. This repository is still being continuously improved. If you have found any relevant papers that need to be included in this repository, please feel free to submit a pull request (PR) or open an issue.
 
- ![books](https://img.shields.io/badge/-Books-orange) means that the corresponding papers are the books about **Neuroscience and Cognition Science**.
+- ![books](https://img.shields.io/badge/-Books-orange) means that the corresponding papers are the books about **Neuroscience and Cognition Science**.
 
-**All the papers are provided in './Papers' folder**
+- **All the papers are provided in './Papers' folder**
 
 
 ## Brain-inspired
+
+
 [1] Ben-Iwhiwhu, E., Dick, J., Ketz, N. A., Pilly, P. K., & Soltoggio, A. (2022). **Context meta-reinforcement learning via neuromodulation**. Neural Networks, 152, 70-79.
 
 [2] Robertazzi, F., Vissani, M., Schillaci, G., & Falotico, E. (2022). **Brain-inspired meta-reinforcement learning cognitive control in conflictual inhibition decision-making task for artificial agents**. Neural Networks, 154, 283-302.
